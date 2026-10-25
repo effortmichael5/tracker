@@ -1,5 +1,5 @@
 // Быстрый запуск: приложение открывается из памяти телефона, свежая версия качается в фоне.
-const CACHE = 'tracker-v7';
+const CACHE = 'tracker-v9';
 const FONTS = 'tracker-fonts-v1';
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon-180.png', './icon-192.png', './icon-512.png'];
 self.addEventListener('install', e => {
